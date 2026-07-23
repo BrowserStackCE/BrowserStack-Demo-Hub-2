@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44.0" fill="none">
+  <defs>
+    <linearGradient id="i20_p38" x1="21.5549" y1="1317.31" x2="21.5549" y2="1341.12" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B399FF"/>
+<stop offset="1" stop-color="#809BFF"/>
+</linearGradient>
+    <linearGradient id="i20_p39" x1="5.05518" y1="1330.12" x2="38.0553" y2="1330.12" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B399FF"/>
+<stop offset="1" stop-color="#809BFF"/>
+</linearGradient>
+    <linearGradient id="i20_p40" x1="21.5552" y1="1308.46" x2="21.5552" y2="1348.98" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B399FF"/>
+<stop offset="1" stop-color="#809BFF"/>
+</linearGradient>
+    <linearGradient id="i20_p41" x1="21.5552" y1="1308.46" x2="21.5552" y2="1348.98" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B399FF"/>
+<stop offset="1" stop-color="#809BFF"/>
+</linearGradient>
+    <linearGradient id="i20_p42" x1="21.5549" y1="1308.46" x2="21.5549" y2="1348.98" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B399FF"/>
+<stop offset="1" stop-color="#809BFF"/>
+</linearGradient>
+    <linearGradient id="i20_p43" x1="21.5549" y1="1308.46" x2="21.5549" y2="1348.98" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B399FF"/>
+<stop offset="1" stop-color="#809BFF"/>
+</linearGradient>
+  </defs>
+  <g transform="translate(0,-1294.5)">
+    <path d="M34.8327 1337.71C34.8327 1339.59 33.2971 1341.12 31.4206 1341.12H11.6892C9.81272 1341.12 8.2771 1339.59 8.2771 1337.71V1328.35H11.6892V1337.71H31.4206V1328.35H34.8327V1337.71ZM31.4206 1317.31C33.2971 1317.31 34.8327 1318.84 34.8327 1320.72V1324.37H31.4206V1320.72H11.6892V1324.37H8.2771V1320.72C8.2771 1318.84 9.81272 1317.31 11.6892 1317.31H31.4206Z" fill="url(#i20_p38)"/>
+    <path d="M38.0553 1328.13V1332.11H5.05518V1328.13H38.0553Z" fill="url(#i20_p39)"/>
+    <path d="M4.9812 1313.99C4.9812 1312.97 5.8099 1312.15 6.82276 1312.15H10.5059V1308.46H6.82276C3.76578 1308.46 1.2981 1310.93 1.2981 1313.99V1317.67H4.9812V1313.99Z" fill="url(#i20_p40)"/>
+    <path d="M4.9812 1343.45V1339.77H1.2981V1343.45C1.2981 1346.51 3.76578 1348.98 6.82276 1348.98H10.5059V1345.29H6.82276C5.8099 1345.29 4.9812 1344.46 4.9812 1343.45Z" fill="url(#i20_p41)"/>
+    <path d="M36.2873 1308.46H32.6042V1312.15H36.2873C37.3002 1312.15 38.1289 1312.97 38.1289 1313.99V1317.67H41.812V1313.99C41.812 1310.93 39.3443 1308.46 36.2873 1308.46Z" fill="url(#i20_p42)"/>
+    <path d="M38.1289 1343.45C38.1289 1344.46 37.3002 1345.29 36.2873 1345.29H32.6042V1348.98H36.2873C39.3443 1348.98 41.812 1346.51 41.812 1343.45V1339.77H38.1289V1343.45Z" fill="url(#i20_p43)"/>
+  </g>
+</svg>

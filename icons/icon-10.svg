@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44.0" fill="none">
+  <defs>
+    <linearGradient id="i10_p17" x1="22.0348" y1="611.874" x2="3.30856" y2="619.855" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AE92FF"/>
+      <stop offset="1" stop-color="#7694FF"/>
+    </linearGradient>
+    <linearGradient id="i10_p18" x1="31.0191" y1="618.494" x2="12.9598" y2="627.23" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B399FF"/>
+      <stop offset="1" stop-color="#809BFF"/>
+    </linearGradient>
+    
+    <!-- Mask to hide the portion of the back device that overlaps with the front device -->
+    <mask id="hide-front">
+      <rect x="0" y="590" width="44" height="60" fill="white"/>
+      <path d="M33.1661 615.026L18.8327 615.022C17.3425 615.021 16.1341 616.229 16.1336 617.719L16.127 640.771C16.1266 642.261 17.3343 643.469 18.8245 643.47L33.158 643.474C34.6482 643.474 35.8566 642.266 35.857 640.776L35.8636 617.725C35.8641 616.235 34.6563 615.026 33.1661 615.026Z" fill="black"/>
+    </mask>
+  </defs>
+  
+  <g transform="translate(0,-597.9)">
+    <!-- Device 1 (Back Phone) -->
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24.1477 607.965L9.95352 607.961C8.46333 607.96 7.25493 609.168 7.2545 610.658L7.24683 637.319C7.2464 638.81 8.45411 640.018 9.94432 640.018L24.1385 640.022C25.6287 640.023 26.8371 638.815 26.8375 637.325L26.8452 610.664C26.8456 609.174 25.6379 607.965 24.1477 607.965Z M23.0191 611.352L11.0894 611.349L11.0828 634.291L23.0125 634.294L23.0191 611.352Z" fill="url(#i10_p17)" mask="url(#hide-front)"/>
+    
+    <!-- Device 2 (Front Phone) -->
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M33.1661 615.026L18.8327 615.022C17.3425 615.021 16.1341 616.229 16.1336 617.719L16.127 640.771C16.1266 642.261 17.3343 643.469 18.8245 643.47L33.158 643.474C34.6482 643.474 35.8566 642.266 35.857 640.776L35.8636 617.725C35.8641 616.235 34.6563 615.026 33.1661 615.026Z M32.0381 618.414L19.9677 618.414L19.9677 637.746L32.0381 637.746Z" fill="url(#i10_p18)"/>
+  </g>
+</svg>

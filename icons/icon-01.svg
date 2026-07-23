@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44.0" fill="none">
+  <defs>
+    <linearGradient id="i1_p0" x1="30.4617" y1="7.41457" x2="8.01226" y2="27.0006" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B399FF"/>
+<stop offset="1" stop-color="#809BFF"/>
+</linearGradient>
+    <linearGradient id="i1_p1" x1="30.4618" y1="7.41457" x2="8.01234" y2="27.0006" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B399FF"/>
+<stop offset="1" stop-color="#809BFF"/>
+</linearGradient>
+    <linearGradient id="i1_p2" x1="30.4618" y1="7.41457" x2="8.01244" y2="27.0006" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B399FF"/>
+<stop offset="1" stop-color="#809BFF"/>
+</linearGradient>
+    <linearGradient id="i1_p3" x1="30.4617" y1="7.4146" x2="8.01229" y2="27.0006" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B399FF"/>
+<stop offset="1" stop-color="#809BFF"/>
+</linearGradient>
+  </defs>
+  <g transform="translate(0,0.0)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0282 23.25L14.3352 20.604H11.3269L10.6497 23.25H8.25562L11.2324 12.2565H14.5714L17.5482 23.25H15.0282ZM12.9019 14.5403H12.7759L11.7049 18.6983H13.9729L12.9019 14.5403Z" fill="url(#i1_p0)"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18.0304 23.25V12.2565H22.2829C22.8184 12.2565 23.2961 12.3405 23.7161 12.5085C24.1361 12.666 24.4879 12.897 24.7714 13.2015C25.0654 13.506 25.2859 13.8735 25.4329 14.304C25.5799 14.7345 25.6534 15.2175 25.6534 15.753C25.6534 16.2885 25.5799 16.7715 25.4329 17.202C25.2859 17.6325 25.0654 18 24.7714 18.3045C24.4879 18.609 24.1361 18.8453 23.7161 19.0133C23.2961 19.1708 22.8184 19.2495 22.2829 19.2495H20.4086V23.25H18.0304ZM20.4086 17.3438H21.6844C22.2409 17.3438 22.6241 17.2388 22.8341 17.0288C23.0546 16.8188 23.1649 16.4723 23.1649 15.9893V15.5168C23.1649 15.0338 23.0546 14.6873 22.8341 14.4773C22.6241 14.2673 22.2409 14.1623 21.6844 14.1623H20.4086V17.3438Z" fill="url(#i1_p1)"/>
+    <path d="M26.671 21.5018V23.25H33.7585V21.5018H31.396V14.0048H33.7585V12.2565H26.671V14.0048H29.0335V21.5018H26.671Z" fill="url(#i1_p2)"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.05518 5.75C4.05518 4.7835 4.83868 4 5.80518 4H37.3052C38.2717 4 39.0552 4.7835 39.0552 5.75V30.25C39.0552 31.2165 38.2717 32 37.3052 32H5.80518C4.83868 32 4.05518 31.2165 4.05518 30.25V5.75ZM7.55518 28.5V7.5H35.5552V28.5H7.55518Z" fill="url(#i1_p3)"/>
+  </g>
+</svg>
